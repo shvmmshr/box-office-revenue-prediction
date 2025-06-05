@@ -1,4 +1,4 @@
-git add # 📋 PRD UPDATE RECOMMENDATIONS
+# 📋 PRD UPDATE RECOMMENDATIONS
 ## Box Office Revenue Prediction - Enhanced with Video Deep Learning & Ensemble Methods
 
 ### 🎯 **Executive Summary**
