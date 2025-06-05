@@ -1,0 +1,47 @@
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.1.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Deep Learning Libraries
+torch>=1.12.0
+torchvision>=0.13.0
+torchaudio>=0.12.0
+transformers>=4.20.0
+
+# Computer Vision
+opencv-python>=4.6.0
+Pillow>=9.0.0
+
+# Audio Processing
+librosa>=0.9.0
+soundfile>=0.10.0
+
+# YouTube Processing
+pytube>=12.0.0
+youtube-dl>=2021.12.17
+
+# Additional Utilities
+tqdm>=4.64.0
+requests>=2.28.0
+urllib3>=1.26.0
+
+# For better performance (optional)
+accelerate>=0.18.0
+datasets>=2.10.0
+
+# Jupyter (if running in notebooks)
+jupyter>=1.0.0
+ipykernel>=6.15.0
+
+# For model persistence
+pickle-mixin>=1.0.2
+joblib>=1.1.0
+
+# For handling imbalanced datasets
+imbalanced-learn>=0.9.0
+
+# For visualization
+plotly>=5.10.0 
